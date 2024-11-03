@@ -3,7 +3,7 @@ import TaskList from "../components/TaskList";
 
 const Home: React.FC = () => {
   return (
-    <div>
+    <div className="">
       <Head>
         <title>Task Timer</title>
         <meta name="description" content="Track your work tasks and time." />
